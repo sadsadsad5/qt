@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cell.qml</file>
+        <file>Lab1Page.qml</file>
+        <file>MainPage.qml</file>
+        <file>Lab2MainPage.qml</file>
+        <file>BackButton.qml</file>
+        <file>Lab2CpuPage.qml</file>
+        <file>Lab2MemoryPage.qml</file>
+        <file>Lab2DevicesPage.qml</file>
+        <file>Lab1GetInfoPage.qml</file>
+        <file>Lab3Page.qml</file>
+        <file>Lab4Page.qml</file>
+        <file>Lab5Page.qml</file>
+        <file>Lab4TableElement.qml</file>
+        <file>Lab4TableHeader.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>microprocessor1.jpg</file>
+        <file>back-button.png</file>
+        <file>projector.png</file>
+    </qresource>
+</RCC>
